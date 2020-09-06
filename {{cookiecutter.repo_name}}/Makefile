@@ -30,7 +30,7 @@ resolve_dependencies:
 
 uninstall: ## delete dependencies
 	poetry env remove python
-	rm -rf requirements-dev.txt requirements-prod.txt Pipfile Pipfile.lock
+	rm -rf poetry.lock requirements.txt
 
 clean: ## Cleans build
 	-rm -rf build
