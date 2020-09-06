@@ -1,0 +1,8 @@
+{
+    "author_name": "author_name",
+    "email": "example@test.com",
+    "repo_name": "example-project",
+    "package_name": "example_package",
+    "project_short_description": "This is a project.",
+    "version": "0.0.0"
+}
